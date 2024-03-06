@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Главная"
+        android:icon="@drawable/main"
+        />
+    <item
+        android:id="@+id/bag"
+        android:title="Корзина"
+        android:icon="@drawable/basket"
+        />
+    <item
+        android:id="@+id/history"
+        android:title="История"
+        android:icon="@drawable/vector"
+        />
+    <item
+        android:id="@+id/info"
+        android:title="Инфо"
+        android:icon="@drawable/question"
+        />
+</menu>
